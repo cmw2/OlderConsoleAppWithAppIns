@@ -1,0 +1,3 @@
+﻿A simplified example of using StartOperation to track work done within an older Framework console job.  
+This targets .NET Framework 4.5.2 and therefore uses instructions found at: https://docs.microsoft.com/en-us/azure/azure-monitor/app/console.  
+If using 4.7.2 or newer, or .NET Core, please use the new WorkerService approach: https://docs.microsoft.com/en-us/azure/azure-monitor/app/worker-service.
